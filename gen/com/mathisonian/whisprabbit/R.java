@@ -20,10 +20,11 @@ public final class R {
         public static final int ButtonCreate=0x7f050002;
         public static final int ButtonPostResponse=0x7f050005;
         public static final int ButtonPostThread=0x7f05000a;
-        public static final int ButtonSearch=0x7f050008;
+        public static final int ButtonSearch=0x7f05000b;
+        public static final int SearchButton=0x7f050008;
+        public static final int SearchText=0x7f050007;
         public static final int linearLayout1=0x7f050000;
         public static final int responseList=0x7f050006;
-        public static final int searchText=0x7f050007;
         public static final int textContent=0x7f050001;
         public static final int threadList=0x7f050009;
     }

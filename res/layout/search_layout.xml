@@ -4,12 +4,12 @@
 	android:layout_height="fill_parent">
 	<LinearLayout android:orientation="horizontal"
 		android:layout_width="fill_parent" android:layout_height="wrap_content">
-		<EditText android:id="@+id/searchText" android:layout_weight="1"
+		<EditText android:id="@+id/SearchText" android:layout_weight="1"
 			android:layout_width="fill_parent" android:layout_height="wrap_content">
 			<requestFocus></requestFocus>
 		</EditText>
-		<Button android:text="Search" android:id="@+id/ButtonSearch"
-			android:layout_toRightOf="@+id/Button01" android:layout_height="wrap_content" android:layout_width="wrap_content">
+		<Button android:text="Search" android:id="@+id/SearchButton"
+			android:layout_toRightOf="@+id/SearchText" android:layout_height="wrap_content" android:layout_width="wrap_content">
 		</Button>
 	</LinearLayout>
 	<ListView android:id="@+id/threadList" android:layout_height="match_parent"
