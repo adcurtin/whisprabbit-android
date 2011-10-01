@@ -21,8 +21,8 @@
 			android:layout_width="fill_parent" android:layout_height="wrap_content"
 			android:layout_weight="1">
 		</Button>
-		<Button android:text="Attach Image" android:id="@+id/ButtonAttach"
-			android:layout_toRightOf="@+id/Button01" android:layout_width="fill_parent"
+		<Button android:text="Attach Image" android:id="@+id/ButtonCamera"
+			android:layout_toRightOf="@+id/ButtonCreate" android:layout_width="fill_parent"
 			android:layout_height="wrap_content" android:layout_weight="1">
 		</Button>
 	</LinearLayout>
